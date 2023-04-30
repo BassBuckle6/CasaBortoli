@@ -8,7 +8,7 @@
 }
 .dropdown{
     position: relative;
-    display: list-item;
+    display: flex;
 }
 
 .dropdown-content {
