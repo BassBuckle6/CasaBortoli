@@ -26,9 +26,14 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #EEC1A1 }
+.dropdown-content a:hover {
+    background-color: #EEC1A1
+}
 
 .dropdown:hover .dropbtn{
     background-color: #333;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
 }
 
